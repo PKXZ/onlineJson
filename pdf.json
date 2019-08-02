@@ -1,93 +1,93 @@
 [
 	{
 		"name": "深入React技术栈",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/深入react技术栈.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/深入react技术栈.pdf",
+		"fmUrl": "/static/pdf/img/深入react技术栈.jpg",
+		"url": "/static/pdf/深入react技术栈.pdf",
 		"type": "pdf"
 	},{
 		"name": "前端架构设计",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/前端架构设计.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/前端架构设计.pdf",
+		"fmUrl": "/static/pdf/img/前端架构设计.jpg",
+		"url": "/static/pdf/前端架构设计.pdf",
 		"type": "pdf"
 	},{
 		"name": "JavaScript高级程序",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/JavaScript高级程序.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/JavaScript高级程序设计_第3版.pdf",
+		"fmUrl": "/static/pdf/img/JavaScript高级程序.jpg",
+		"url": "/static/pdf/JavaScript高级程序设计_第3版.pdf",
 		"type": "pdf"
 	},{
 		"name": "深入浅出ES6",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/深入浅出ES6.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/深入浅出ES6.pdf",
+		"fmUrl": "/static/pdf/img/深入浅出ES6.jpg",
+		"url": "/static/pdf/深入浅出ES6.pdf",
 		"type": "pdf"
 	},{
 		"name": "JavaScript权威指南",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/JavaScript权威指南.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/JavaScript权威指南_第6版.pdf",
+		"fmUrl": "/static/pdf/img/JavaScript权威指南.jpg",
+		"url": "/static/pdf/JavaScript权威指南_第6版.pdf",
 		"type": "pdf"
 	},{
 		"name": "React Native应用开发实践解析",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/React Native应用开发实践解析.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/React Native应用开发实例解析.pdf",
+		"fmUrl": "/static/pdf/img/React Native应用开发实践解析.jpg",
+		"url": "/static/pdf/React Native应用开发实例解析.pdf",
 		"type": "pdf"
 	},{
 		"name": "深入React技术栈",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/深入react技术栈.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/深入react技术栈.pdf",
+		"fmUrl": "/static/pdf/img/深入react技术栈.jpg",
+		"url": "/static/pdf/深入react技术栈.pdf",
 		"type": "pdf"
 	},{
 		"name": "前端架构设计",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/前端架构设计.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/前端架构设计.pdf",
+		"fmUrl": "/static/pdf/img/前端架构设计.jpg",
+		"url": "/static/pdf/前端架构设计.pdf",
 		"type": "pdf"
 	},{
 		"name": "JavaScript高级程序",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/JavaScript高级程序.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/JavaScript高级程序设计_第3版.pdf",
+		"fmUrl": "/static/pdf/img/JavaScript高级程序.jpg",
+		"url": "/static/pdf/JavaScript高级程序设计_第3版.pdf",
 		"type": "pdf"
 	},{
 		"name": "深入浅出ES6",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/深入浅出ES6.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/深入浅出ES6.pdf",
+		"fmUrl": "/static/pdf/img/深入浅出ES6.jpg",
+		"url": "/static/pdf/深入浅出ES6.pdf",
 		"type": "pdf"
 	},{
 		"name": "JavaScript权威指南",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/JavaScript权威指南.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/JavaScript权威指南_第6版.pdf",
+		"fmUrl": "/static/pdf/img/JavaScript权威指南.jpg",
+		"url": "/static/pdf/JavaScript权威指南_第6版.pdf",
 		"type": "pdf"
 	},{
 		"name": "React Native应用开发实践解析",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/React Native应用开发实践解析.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/React Native应用开发实例解析.pdf",
+		"fmUrl": "/static/pdf/img/React Native应用开发实践解析.jpg",
+		"url": "/static/pdf/React Native应用开发实例解析.pdf",
 		"type": "pdf"
 	},{
 		"name": "深入React技术栈",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/深入react技术栈.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/深入react技术栈.pdf",
+		"fmUrl": "/static/pdf/img/深入react技术栈.jpg",
+		"url": "/static/pdf/深入react技术栈.pdf",
 		"type": "pdf"
 	},{
 		"name": "前端架构设计",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/前端架构设计.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/前端架构设计.pdf",
+		"fmUrl": "/static/pdf/img/前端架构设计.jpg",
+		"url": "/static/pdf/前端架构设计.pdf",
 		"type": "pdf"
 	},{
 		"name": "JavaScript高级程序",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/JavaScript高级程序.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/JavaScript高级程序设计_第3版.pdf",
+		"fmUrl": "/static/pdf/img/JavaScript高级程序.jpg",
+		"url": "/static/pdf/JavaScript高级程序设计_第3版.pdf",
 		"type": "pdf"
 	},{
 		"name": "深入浅出ES6",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/深入浅出ES6.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/深入浅出ES6.pdf",
+		"fmUrl": "/static/pdf/img/深入浅出ES6.jpg",
+		"url": "/static/pdf/深入浅出ES6.pdf",
 		"type": "pdf"
 	},{
 		"name": "JavaScript权威指南",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/JavaScript权威指南.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/JavaScript权威指南_第6版.pdf",
+		"fmUrl": "/static/pdf/img/JavaScript权威指南.jpg",
+		"url": "/static/pdf/JavaScript权威指南_第6版.pdf",
 		"type": "pdf"
 	},{
 		"name": "React Native应用开发实践解析",
-		"fmUrl": "https://github.com/PKXZ/onlineJson/raw/master/static/img/React Native应用开发实践解析.jpg",
-		"url": "https://github.com/PKXZ/onlineJson/raw/master/static/pdf/React Native应用开发实例解析.pdf",
+		"fmUrl": "/static/pdf/img/React Native应用开发实践解析.jpg",
+		"url": "/static/pdf/React Native应用开发实例解析.pdf",
 		"type": "pdf"
 	}
 ]
